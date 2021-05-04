@@ -2,7 +2,7 @@
 
 Happy you're here! Hopefully you find something really useful!
 
-My name is Natalia Venditto and I currently work in the role of Principal Solutions Architect at Netcentric, a Cognizant Digital Business.
+My name is Natalia Venditto and I currently work in the role of Senior Solutions Architect, with MongoDB. Previously I was a Principal Solutions Architect at Netcentric, a Cognizant Digital Business.
 
 I am also a Google Developer Expert for Angular and Web Technologies, an Auth0 Ambassador, and a Women Techmakers IWD Organizer, for the Barcelona Chapter.
 
