@@ -5,7 +5,7 @@ Happy you're here! Hopefully you find something really useful!
 ## About me
 
 My name is Natalia Venditto and I currently work in the role of Principal Program Manager with Microsoft, leading the *JavaScript* and *NodeJS* e2e experience on Azure. 
-Previously I was a Senior Solutions Architect with MongoDB and, even before that, a Principal Solutions Architect at Netcentric, a Cognizant Digital Business. I have been working in web development since 2005 when I transitioned from Graphic Designer to Web Designer, and then Developer. 
+Previously I was a Senior Solutions Architect with MongoDB and, even before that, a Principal Solutions Architect and Principal Frontend Engineer at Netcentric, a Cognizant Digital Business. I have been working in web development since 2005 when I transitioned from Graphic Designer to Web Designer, and then Developer. 
 
 I am also a Google Developer Expert for Angular and Web Technologies, an Auth0 Ambassador, and a Women Techmakers IWD Organizer, for the Barcelona Chapter. In August 2021 I got a Microsoft Most Valuable Professional Award for Developer Technologies.
 
