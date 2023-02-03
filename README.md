@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 👋. I'm Natalia.
 
-Happy you're here! Hopefully you find something really useful!
+
 
 ## About me
 
