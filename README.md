@@ -4,7 +4,7 @@
 
 ## About me
 
-My name is Natalia Venditto and I currently work in the role of Principal Program Manager with Microsoft, leading the *JavaScript* and *Node.js* e2e developer experience on Azure, (Dev Tools, DX).
+My name is Natalia Venditto, I was born in 🇺🇾 and I currently work in the role of Principal Program Manager with Microsoft, leading the *JavaScript* and *Node.js* e2e developer experience on Azure, (Dev Tools, DX).
 
 I've been in tech for a while, also in the roles of Principal Solutions Architect for the Adobe tech stack, Principal Frontend Engineer at Cognizant, Senior Solutions Architect with MongoDB, and full-stack freelance developer and consultant. I'm also an international technical public speaker.
 
