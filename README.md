@@ -1,9 +1,5 @@
 # Hi there 👋. I'm Natalia.
 
-## My stats
-
-<p aligh="left"> <a href="http://www.github.com/manekinekko"><img src="https://github-readme-stats.vercel.app/api?username=anfibiacreativa&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="anfibiacreativa's GitHub stats" width="420px" /></a> <a href="http://www.github.com/anfibiacreativa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anfibiacreativa&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="420px" /></a> </p>
-
 ## About me
 
 My name is Natalia Venditto, I was born in 🇺🇾 and I currently work in the role of Principal Program Manager with Microsoft, leading the *JavaScript* and *Node.js* e2e developer experience and developer tools on Azure.
