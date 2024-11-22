@@ -12,7 +12,7 @@ https://www.microfrontend.dev
 
 that I use to spread knowledge about full-stack JavaScript development, micro architectures, composability, serverless and cloud-native.
 
-You may also want to checkout my recent video collection "What is JavaScript: Understanding JavaScript as a Non-Developer or Junior Developer Member of a Cross Functional Software Development Team" published by [O'Reilly Media](https://www.oreilly.com/)
+You may also want to checkout my recent video collection "What is JavaScript: Understanding JavaScript as a Non-Developer or Junior Developer Member of a Cross Functional Software Development Team" published by [O'Reilly Media](https://www.oreilly.com/) for which I have won the [JavaScriptLandia Community Award Pathfinder for Education](https://openjsf.org/blog/2024-javascriptlandia-community-award-categories-a) from the [OpenJS Foundation](https://openjsf.org/)
 
 | Link and title | Content Summary | Link and title | Content Summary |
 | -------------- | --------------- | -------------- | --------------- |
