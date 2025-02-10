@@ -4,6 +4,8 @@
 
 My name is Natalia Venditto, I was born in Montevideo, Uruguay 🇺🇾 and I currently work in the role of Principal Program Manager with Microsoft, leading the *JavaScript* and *Node.js* e2e developer experience and developer tools for Azure and VS Code for Azure.
 
+I am also a core contributor to [Web Fragments](https://github.com/web-fragments/web-fragments)
+
 I've been in tech for a while, also in the roles of Principal Solutions Architect for the Adobe tech stack, Principal Frontend Engineer at Cognizant, Senior Solutions Architect with MongoDB, and full-stack freelance developer and consultant. I'm also an international technical public speaker.
 
 ➡️ If you wanna know more about me, please visit my personal website
