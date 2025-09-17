@@ -2,7 +2,9 @@
 
 ## About me
 
-My name is Natalia Venditto, I was born in Montevideo, Uruguay 🇺🇾 and I currently work in the role of Principal Program Manager with Microsoft, leading the *JavaScript* and *Node.js* e2e developer experience and developer tools for Azure and VS Code for Azure.
+My name is Natalia Venditto, I was born in Montevideo, Uruguay 🇺🇾 and I currently work in the role of Principal Program Manager with Microsoft, leading the *JavaScript* and *Node.js* e2e developer experience and developer tools for Azure and VS Code for Azure, and AI Developer Tools Product Owner.
+
+Read more about me here [Natalia Venditto's personal website](https://nvenditto.tech)
 
 I am also a core contributor to [Web Fragments](https://github.com/web-fragments/web-fragments)
 
