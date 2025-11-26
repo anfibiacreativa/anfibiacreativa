@@ -1,38 +1,40 @@
+<!-- prettier-ignore -->
+<div align="center">
+
+
 # Hi there 👋. I'm Natalia.
+
+
+[![Web Fragments Docs](https://img.shields.io/badge/Web%20Fragments%20Docs-fuchsia?style=flat-square)](https://web-fragments.dev/)
+[![Web Fragments Discord](https://img.shields.io/badge/Discord-8A2BE2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/dcgA8YxyCb)
+[![Natalia Venditto](https://img.shields.io/badge/My%20Site-00b076?style=flat-square)](https://microfrontend.dev)
+[![Microfrontend.dev](https://img.shields.io/badge/Microfrontend.dev-2F80ED?style=flat-square)](https://microfrontend.dev)
+
+
+[About me](#about-me) | [Open Source](#open-source) | [My JavaScript Course on O'Reilly](#my-javascript-course) | [Public Speaking](#public-speaking)
+
+</div>
 
 ## About me
 
-My name is Natalia Venditto, I was born in Montevideo, Uruguay 🇺🇾 and I currently work in the role of Principal Program Manager with Microsoft, leading the *JavaScript* and *Node.js* e2e developer experience and developer tools for Azure and VS Code for Azure, and AI Developer Tools Product Owner.
+My name is Natalia Venditto, I was born in Montevideo, Uruguay 🇺🇾.
 
 Read more about me here [Natalia Venditto's personal website](https://nvenditto.tech)
 
-I am also a core contributor to [Web Fragments](https://github.com/web-fragments/web-fragments)
+## Open Source
 
-I've been in tech for a while, also in the roles of Principal Solutions Architect for the Adobe tech stack, Principal Frontend Engineer at Cognizant, Senior Solutions Architect with MongoDB, and full-stack freelance developer and consultant. I'm also an international technical public speaker.
+I am a core contributor to [Web Fragments](https://github.com/web-fragments/web-fragments), and have also contributed to [Node.js](https://github.com/nodejs/node/pull/53721), and other JavaScript frameworks.
 
-➡️ If you wanna know more about me, please visit my personal website
-
-https://www.microfrontend.dev
-
+➡️ If you wanna know more about my work on micro-frontends, please visit [microfrontend.dev](https://www.microfrontend.dev), a site
 that I use to spread knowledge about full-stack JavaScript development, micro architectures, composability, serverless and cloud-native.
+
+## My JavaScript Course
 
 You may also want to checkout my recent video collection "What is JavaScript: Understanding JavaScript as a Non-Developer or Junior Developer Member of a Cross Functional Software Development Team" published by [O'Reilly Media](https://www.oreilly.com/) for which I have won the [JavaScriptLandia Community Award Pathfinder for Education](https://openjsf.org/blog/2024-javascriptlandia-community-award-categories-a) from the [OpenJS Foundation](https://openjsf.org/)
 
-| Link and title | Content Summary | Link and title | Content Summary |
-| -------------- | --------------- | -------------- | --------------- |
-| [1 - Introduction to JavaScript](https://learning.oreilly.com/videos/-/0642572039141/) | <ul><li>Overview of JavaScript</li><li>Basic Syntax and Structure</li></ul> | [2 - JavaScript Runtime and Engines](https://learning.oreilly.com/videos/-/0642572039172/) | <ul><li>The browser: Understanding where JavaScript code runs</li><li>Difference between runtime and engine</li></ul> |
-| [ 3 - Functions and abstractions](https://learning.oreilly.com/videos/-/0642572039233/) | <ul><li>Declaration and invocation of functions</li><li>Parameters and return values</li><li>Function expressions and arrow functions</li><li>Understanding abstraction in JavaScript</li></ul> | [4 - Variables and Data Types](https://learning.oreilly.com/videos/-/0642572039202/) | <ul><li>Declaration of variables</li><li>Primitive data types</li></ul> |
-| [5 - Arrays, Objects and Syntactic Sugar](https://learning.oreilly.com/videos/-/0642572039264/) | <ul><li>Creating and manipulating arrays</li><li>Working with objects in key, value pairs</li><li>Array methods (map, filter)</li><li>Explaining syntactic sugar</li></ul>| [6 - Control Flow and Error Handling](https://learning.oreilly.com/videos/-/0642572039295/)| <ul><li>Conditional statements (if, else if, else)</li><li>Loops (for, while, forEach)</li><li>Error handling (try, catch, finally)</li><li>Why is error handling important?</li></ul>|
-| [7 - Scope, Closures, and Functional Programming Concepts ](https://learning.oreilly.com/videos/-/0642572039325/) | <ul><li>Understanding scope</li><li>Closure concept with example</li><li>Introduction to functional programming concepts</li></ul>| [8 - Document Object Model (DOM)](https://learning.oreilly.com/videos/-/0642572039356/)| <ul><li>Introduction to the Document Object Model (DOM)</li><li>Selecting and modifying HTML elements</li></ul> |
-| [9 - Events and Event Handling](https://learning.oreilly.com/videos/-/0642572039387/) | <ul><li>Understanding event listeners</li><li>Reacting to user interaction (click, hover)</li></ul>| [10 - Asynchronous JavaScript](https://learning.oreilly.com/videos/-/0642572039417/)| <ul><li>Introduction to asynchronous JavaScript programming</li><li>Callbacks, Promises and async/await syntax</li></ul>|
-|[11 - Error Handling and Debugging](https://learning.oreilly.com/videos/-/0642572039448/) | <ul><li>Understanding JavaScript errors and debugging techniques</li><li>The browser developer tools</li><li>What are source maps?</li></ul> | [12 - Runtime Performance metrics and Performance Optimization](https://learning.oreilly.com/videos/-/0642572039479/) | <ul><li>Optimizing code performance</li><li>Identifying bottlenecks</li><li>Modern runtime performance metrics: Core Web Vitals</li></ul>|
-| [13 - JavaScript Modules and ES6+ Features](https://learning.oreilly.com/videos/-/0642572039509/) | <ul><li>Benefits of modular programming</li><li>Creating and importing/exporting modules</li><li>Overview of modern JavaScript features (ES6+)</li></ul> |[14 - Web Platform APIs and the JavaScript Ecosystem](https://learning.oreilly.com/videos/-/0642572039530/) | <ul><li>Overview of Web Platform APIs</li><li>Introduction to the JavaScript Ecosystem</li><li>Navigating libraries, frameworks and tools </li></ul>|
-| [15 - Introduction to TypeScript](https://learning.oreilly.com/videos/-/0642572039561/) | <ul><li>Overview of Typescript and its benefits</li><li>Basic types and annotations</li></ul> | [16 - Transpiling, bundling and optimizing JavaScript](https://learning.oreilly.com/videos/-/0642572039592/) | <ul><li>Understanding the need for transpilation</li><li>What are polyfills?</li><li>Introduction to bundling tools and their role in packaging JavaScript code</li><li>Techniques for optimizing JavaScript for performance and efficiency</li><li>Best practices for managing dependencies and reducing bundle size </li></ul> |
-| [17 - JavaScript frameworks](https://learning.oreilly.com/videos/-/0642572039622/) | <ul><li>Brief overview of popular JavaScript frameworks</li><li>Understanding their roles and differences</li><li>How to select the best framework for a specific problem based on documentation, community, maturity and paradigms</li></ul>| [18 - Testing in JavaScript](https://learning.oreilly.com/videos/-/0642572039653/) | <ul><li>Introduction to testing methodologies</li><li>Testing frameworks and libraries</li><li>Writing and executing tests for JavaScript code (and example)</li><li>Importance of testing in ensuring code quality and reliability</li></ul> |
-| [19 - Server-side JavaScript with Node.js](https://learning.oreilly.com/videos/-/0642572039684/) | <ul><li>Introduction to Node.js and its role in server-side development</li><li>Building server-side applications with Node.js</li><li>Exploring frameworks for creating web-servers</li><li>Understanding the advantages and use-cases of server-side JavaScript</li></ul> |[20 - Cloud Computing with JavaScript](https://learning.oreilly.com/videos/-/0642572039714/) | <ul><li>Integration of JavaScript with cloud services</li><li>Deploying JavaScript applications to cloud platforms</li><li>Leveraging serverless architecture with JavaScript</li><li>Scalability, reliability, security and data soverignity considerations for cloud-based JavaScript applications</li></ul> |
-| [21 - Strategic planning with JavaScript](https://learning.oreilly.com/videos/-/0642572039745/) | <ul><li>Assessing emerging technologies and trends</li><li>Formulating long-term strategies leveraging JavaScript</li><li>Aligning technical and business objectives</li></ul> | [22 - HTTP Requests and Responses and JavaScript](https://learning.oreilly.com/videos/-/0642572039776/)| - <ul><li>Understanding the basics of the HTTP protocol</li><li>Making HTTP requests using JavaScript</li><li>Handling HTTP responses and processing data</li></ul> |
-| [23 - Working with APIs in JavaScript](https://learning.oreilly.com/videos/-/0642572039806/) | <ul><li>Introduction to APIs (Application Programming Interfaces)</li><li>Consuming and interacting with external APIs using JavaScript</li><li>Authentication, error handling and best practices for working with APIs</li><li>API Contracts: the OpenAPI Specification or OAS</li></ul> | | |
+Please find the index of lessons following [this link](./what-is-javascript-course-oreilly.md)
 
+## Public Speaking
 
-➡️ I am currently very involved with initiatives that integrate API-First architecture patterns and tools, and portable interoperable runtimes, like WASI enabled Wasm.
+I am also a technical public and keynote speaker, and have delivered talks, workshops and keynotes in dozens of international conferences.
 
