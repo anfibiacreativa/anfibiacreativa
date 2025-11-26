@@ -2,8 +2,15 @@
 <div align="center">
 
 
-# Hi there 👋. I'm Natalia.
-
+    )                                                                              
+ ( /(           )       (                                 (            )    )      
+ )\())    )  ( /(    )  )\ (      )   (   (    (          )\ )  (   ( /( ( /(      
+((_)\  ( /(  )\())( /( ((_))\  ( /(   )\  )\  ))\  (     (()/(  )\  )\()))\()) (   
+ _((_) )(_))(_))/ )(_)) _ ((_) )(_)) ((_)((_)/((_) )\ )   ((_))((_)(_))/(_))/  )\  
+| \| |((_)_ | |_ ((_)_ | | (_)((_)_  \ \ / /(_))  _(_/(   _| |  (_)| |_ | |_  ((_) 
+| .` |/ _` ||  _|/ _` || | | |/ _` |  \ V / / -_)| ' \))/ _` |  | ||  _||  _|/ _ \ 
+|_|\_|\__,_| \__|\__,_||_| |_|\__,_|   \_/  \___||_||_| \__,_|  |_| \__| \__|\___/ 
+                                                                                   
 
 [![Web Fragments Docs](https://img.shields.io/badge/Web%20Fragments%20Docs-fuchsia?style=flat-square)](https://web-fragments.dev/)
 [![Web Fragments Discord](https://img.shields.io/badge/Discord-8A2BE2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/dcgA8YxyCb)
@@ -17,7 +24,7 @@
 
 ## About me
 
-My name is Natalia Venditto, I was born in Montevideo, Uruguay 🇺🇾.
+My name is Natalia Venditto, I was born in Montevideo, Uruguay 🇺🇾. I am a frontend developer and developer tools creator.
 
 Read more about me here [Natalia Venditto's personal website](https://nvenditto.tech)
 
