@@ -1,16 +1,8 @@
 <!-- prettier-ignore -->
 <div align="center">
 
+<img width="1535" height="355" alt="ascii-art-text" src="https://github.com/user-attachments/assets/eb1b2934-f9f2-4cc6-aba4-8e2f810f15be" />
 
-    )                                                                              
- ( /(           )       (                                 (            )    )      
- )\())    )  ( /(    )  )\ (      )   (   (    (          )\ )  (   ( /( ( /(      
-((_)\  ( /(  )\())( /( ((_))\  ( /(   )\  )\  ))\  (     (()/(  )\  )\()))\()) (   
- _((_) )(_))(_))/ )(_)) _ ((_) )(_)) ((_)((_)/((_) )\ )   ((_))((_)(_))/(_))/  )\  
-| \| |((_)_ | |_ ((_)_ | | (_)((_)_  \ \ / /(_))  _(_/(   _| |  (_)| |_ | |_  ((_) 
-| .` |/ _` ||  _|/ _` || | | |/ _` |  \ V / / -_)| ' \))/ _` |  | ||  _||  _|/ _ \ 
-|_|\_|\__,_| \__|\__,_||_| |_|\__,_|   \_/  \___||_||_| \__,_|  |_| \__| \__|\___/ 
-                                                                                   
 
 [![Web Fragments Docs](https://img.shields.io/badge/Web%20Fragments%20Docs-fuchsia?style=flat-square)](https://web-fragments.dev/)
 [![Web Fragments Discord](https://img.shields.io/badge/Discord-8A2BE2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/dcgA8YxyCb)
